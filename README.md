@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:212225220011
+# Reg No: 212225220011
 # Name: ARTHI S
-# Date:
+# Date: 27/08/20226
 
 
 # AIM:
