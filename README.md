@@ -40,8 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
+<img width="727" height="457" alt="image" src="https://github.com/user-attachments/assets/0ff05afb-a11b-47c1-a0e3-7dd2cb70c9e3" />
 
 
 # CLASS DIAGRAM
@@ -58,6 +57,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="748" height="530" alt="image" src="https://github.com/user-attachments/assets/4d7d5fa5-dee4-42d3-8ba5-516eb9b1643e" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -65,9 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
-
+<img width="626" height="493" alt="image" src="https://github.com/user-attachments/assets/de26b0d4-8053-4bd2-b7f0-4597c99b47b8" />
 
 # PACKAGE DIAGRAM:
 
@@ -76,11 +75,6 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-
-
-
-
-
 
 
 
@@ -94,9 +88,9 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 
 Demonstrate the logic of an algorithm.
 
-Describe the steps performed in a UML use case.
+Describe the steps performed in a UMLpa use case.
 
-
+<img width="246" height="553" alt="image" src="https://github.com/user-attachments/assets/8c7d450a-2f60-499b-a5df-5061cbc7535d" />
 
 
 
